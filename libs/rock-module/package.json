@@ -1,0 +1,10 @@
+{
+  "name": "@nx-rock-packaged/rock-module",
+  "version": "0.0.2-alpha",
+  "ngPackage": {
+    "lib": {
+      "entryFile": "index.ts"
+    },
+    "dest": "../../@nx-packaged/rock-module"
+  }
+}
